@@ -1,0 +1,144 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "Nombre": "Black Adam",
+            "Puntaje": 4,
+            "Genero": "Documental",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/7MwrqCY0AZw3ZWp1F8BWsYLRWUu-400x600.jpg"
+        },
+        {
+            "id": 2,
+            "Nombre": "Weird",
+            "Puntaje": 5,
+            "Genero": "Comedia",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/qcj2z13G0KjaIgc01ifiUKu7W07-400x600.jpg"
+        },
+        {
+            "id": 3,
+            "Nombre": "El Dragón de Papá",
+            "Puntaje": 4.5,
+            "Genero": "Animación",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/vSpDSpgo2VADOWSykemgYAYezQP-400x600.jpg"
+        },
+        {
+            "id": 4,
+            "Nombre": "Monica, O My Darling",
+            "Puntaje": 3,
+            "Genero": "Comedia",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/yq5zQAlxhNZvCaqdUcpGDnOZeQG-400x600.jpg"
+        },
+        {
+            "id": 5,
+            "Nombre": "Quédate",
+            "Puntaje": 5,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/594eCLK3Xvod0w41UGqax9K1keD-400x600.jpg"
+        },
+        {
+            "id": 6,
+            "Nombre": "La captura del enfermero asesino",
+            "Puntaje": 3,
+            "Genero": "Documental",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/4B3QSIqxOxqWgnGReIJBJNanKl2-400x600.jpg"
+        },
+        {
+            "id": 7,
+            "Nombre": "Ámsterdam",
+            "Puntaje": 3,
+            "Genero": "Comedia",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/6sJcVzGCwrDCBMV0DU6eRzA2UxM-400x600.jpg"
+        },
+        {
+            "id": 8,
+            "Nombre": "Cara a Cara",
+            "Puntaje": 4,
+            "Genero": "Acción",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/ny7lhSMcE5ddbFi2DOM9GWocCA1-400x566.jpg"
+        },
+        {
+            "id": 9,
+            "Nombre": "Pig",
+            "Puntaje": 5,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/4DNctZAnQ12OEB6bZN0srKyPdXj-400x572.jpg"
+        },
+        {
+            "id": 10,
+            "Nombre": "Mine",
+            "Puntaje": 3,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/7hxM3HmO3vS8ZxPyFlXgI0tqXug-400x600.jpg"
+        },
+        {
+            "id": 11,
+            "Nombre": "Desde cero",
+            "Puntaje": 4,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/desde-cero-102806-poster-400x600.jpg"
+        },
+        {
+            "id": 12,
+            "Nombre": "Cómo termina",
+            "Puntaje": 5,
+            "Genero": "Comedia",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/h4FQ8H77z6rIY82HzR5wgOYoxCA-400x600.jpg"
+        },
+        {
+            "id": 13,
+            "Nombre": "Al Oeste de la Montaña",
+            "Puntaje": 4,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/xvBniPQeceWQrYyimyNuPjQEbay-400x600.jpg"
+        },
+        {
+            "id": 14,
+            "Nombre": "La familia Proud",
+            "Puntaje": 3,
+            "Genero": "Animación",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/la-familia-proud-mayor-y-mejor-102783-poster-400x600.jpg"
+        },
+        {
+            "id": 15,
+            "Nombre": "La Caída",
+            "Puntaje": 5,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/kXmnXE5RhLtmF9kGUMFA13KPSsN-400x600.jpg"
+        },
+        {
+            "id": 16,
+            "Nombre": "Medidas correctivas",
+            "Puntaje": 4,
+            "Genero": "Acción",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/9qG7cBhu444BYmcIOeoLJoCBMuO-400x600.jpg"
+        },
+        {
+            "id": 17,
+            "Nombre": "Color Out of Space",
+            "Puntaje": 5,
+            "Genero": "Ciencia ficción",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/xBXxjWhKUtMbB7NT0vHb3MkUmMA-400x600.jpg"
+        },
+        {
+            "id": 18,
+            "Nombre": "Atlas",
+            "Puntaje": 5,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/xP9Da09itvve7r3Lj7twji8eQ0S-400x600.jpg"
+        },
+        {
+            "id": 19,
+            "Nombre": "Love Me",
+            "Puntaje": 2,
+            "Genero": "Drama",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/love-me-102761-poster-400x600.jpg"
+        },
+        {
+            "id": 20,
+            "Nombre": "Que Padre…es Mi Familia?",
+            "Puntaje": 5,
+            "Genero": "Comedia",
+            "link": "https://cinecalidad.ms/wp-content/uploads/2022/11/nxSnWIyBvDkJkkvc0pzEtK9Pz5p-400x600.jpg"
+        }
+    ]
+}

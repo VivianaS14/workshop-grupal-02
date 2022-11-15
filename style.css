@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #12263a;
+  color: #f3fcf0;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 17px;
+}
+
+/* BARRA DE NAVEGACION */
+
+#img-logo {
+  cursor: pointer;
+}
+
+.navbar {
+  padding: 1rem 3rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 30px;
+}
+.input-search {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: none;
+}
+.input-search:focus {
+  outline: 3px solid #6d8ea0;
+}
+.btn {
+  padding: 0.5rem 1.2rem;
+  color: #12263a;
+  background-color: #c5d8d1;
+  border: 2px solid #6d8ea0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: #c5d8d1;
+  background-color: #6d8ea0;
+}
+
+/* CARDS PELICULAS */
+
+.card-container {
+  width: 400px;
+  padding: 1rem;
+  background-color: #6d8ea0;
+  border-radius: 10px;
+}
+.card-container figure {
+  text-align: center;
+}
+.img-movie {
+  width: 60%;
+  border-radius: 10px;
+}
+.card-info {
+  padding-top: 1.5rem;
+  text-align: center;
+}
+.info-movie {
+  width: 80%;
+  padding: 1rem 0;
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+/* CARDS CONTAINER */
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1050px) {
+  .navbar {
+    width: 90%;
+    justify-content: center;
+  }
+  .container {
+    width: 100%;
+    padding: 0;
+  }
+  .card-container {
+    width: 300px;
+  }
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    width: 77%;
+    flex-direction: column;
+  }
+}
